@@ -1,0 +1,13 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+memory/vector_store/
+memory/chat_store/

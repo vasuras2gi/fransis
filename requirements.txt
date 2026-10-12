@@ -1,0 +1,11 @@
+redis              # Message Broker (Thalamus)
+opencv-python      # Camera Vision
+ultralytics        # YOLOv10/v8 (Object Detection)
+face_recognition   # DeepFace / Identity
+chromadb           # Subconscious Vector Memory
+networkx           # Conscious Knowledge Graph
+sympy              # Math Engine
+scipy              # Physics/Math formulas
+python-dotenv      # Environment variables
+pyttsx3            # Basic lightweight Text-to-Speech
+SpeechRecognition  # Audio input processing
